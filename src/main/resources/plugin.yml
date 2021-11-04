@@ -1,0 +1,4 @@
+name: LastLife
+version: '${project.version}'
+main: uk.radialbog9.spigot.lastlife.LastLife
+api-version: 1.17
